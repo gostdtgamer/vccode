@@ -30,6 +30,7 @@ draw_banner() {
   |                CODE   LOG              |
   |                    LOL                 |
   |               TANKU  COMING            | 
+
 EOF
     echo -e "${NC}"
     echo -e "   ${R}──[ ${W}ANMESH 3s${R} ]${NC}${DG}───────────────────────────────────────────${NC}"
